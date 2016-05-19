@@ -13,6 +13,14 @@
 
 * [Survey on common MF techniques for building recommendation system](https://datajobs.com/data-science-repo/Recommender-Systems-[Netflix].pdf)
 
+* [Quora's open source MF library (with ref.)](https://engineering.quora.com/Open-sourcing-QMF-for-matrix-factorization)
+
+* [Scalable MF library](http://www.cs.utexas.edu/~rofuyu/libpmf/)
+
+* [Python library with implementation of popular MF techniques](http://nimfa.biolab.si/)
+
+* [Corresponding paper for NIMFA](http://www.jmlr.org/papers/volume13/zitnik12a/zitnik12a.pdf)
+
 
 # Interesting talks on Machine Learning/Data Science
 
