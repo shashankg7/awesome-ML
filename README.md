@@ -17,9 +17,11 @@
 
 * [Scalable MF library](http://www.cs.utexas.edu/~rofuyu/libpmf/)
 
-* [Python library with implementation of popular MF techniques](http://nimfa.biolab.si/)
+* [Python library with implementation of popular NMF(Non-negative Matrix Factorization techniques](http://nimfa.biolab.si/)
 
 * [Corresponding paper for NIMFA](http://www.jmlr.org/papers/volume13/zitnik12a/zitnik12a.pdf)
+
+* [Common matrix factorization packagae python](https://pypi.python.org/pypi/PyMF)
 
 
 # Interesting talks on Machine Learning/Data Science
